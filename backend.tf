@@ -3,6 +3,6 @@ terraform {
     bucket = "sample-bukcet-batch-27"
     key = "main"
     region = "us-east-1"
-    dynamodb_table = "my-dynamodb-table"
+    dynamodb_table = "my-dynamodb-table-1"
   }
 }
